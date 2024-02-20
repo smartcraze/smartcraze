@@ -1,10 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=smartcraze&icon=7&color=11)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently Learning React js and Backend<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with web and app developer<br>💬 Ask me about Python | javascript | React js | C and C++ | Backend<br>
-<div style="position: absolute; top: 10px; left: 10px;">
-    [![](https://visitcount.itsvg.in/api?id=smartcraze&icon=7&color=11)](https://visitcount.itsvg.in)
-</div>
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smartcraze&theme=react&hide_border=false&include_all_commits=true&count_private=true)

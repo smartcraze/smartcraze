@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=smartcraze&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=smartcraze&label=Profile%20views&color=0e75b6&style=flat" alt="smartcraze" /> </p>
 # 💫 About Me:
 🔭 I’m currently working on AI &ML<br>👯 I’m looking to collaborate on ML<br>🤝 I’m looking for help with Data Structure & Algorithm<br>🌱 I’m currently learning Machine Learning & DSA<br>💬 Ask me about :  Web Dev | ML | DSA<br>
 

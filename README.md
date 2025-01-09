@@ -26,8 +26,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=smartcraze&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ### My Latest tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=surajv354&theme=outrun&response=true&border=true&time=true&icon=default"/></a>
-
-
+<a href="https://surajv.me"><img src="https://gtce.itsvg.in/api?username=surajv354&theme=outrun&response=true&border=true&time=true&icon=default"/></a>
 ---
 

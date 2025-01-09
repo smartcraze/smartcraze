@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on AI &ML<br>👯 I’m looking to collaborate on ML<br>🤝 I’m looking for help with Data Structure & Algorithm<br>🌱 I’m currently learning Machine Learning & DSA<br>💬 Ask me about :  Web Dev | ML | DSA<br>
+🔭 I’m currently Learning Webdevlopement<br>🤝 I’m looking for help with Data Structure & Algorithm<br>🌱💬 Ask me about :  Web Dev<br>
 
 
 ## 🌐 Socials:

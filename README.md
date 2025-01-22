@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently Learning Webdevlopement<br>🤝 I’m looking for help with Data Structure & Algorithm<br>🌱💬 Ask me about :  Web Dev<br>
+🔭 I’m currently Learning Web development<br>🤝 I’m looking for help with Data Structure & Algorithm<br>🌱💬 Ask me about :  Web Dev<br>
 
 
 ## 🌐 Socials:

@@ -54,8 +54,13 @@ They’re archived now, but might still help you if you're looking for starter i
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma" />
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartcraze&theme=tokyonight&hide_border=false" />
+ <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&hide_title=false&card_width=300" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartcraze&theme=tokyonight&hide_border=false" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=300" width="300" />
+</div>
 
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smartcraze&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4" />
+</p> 

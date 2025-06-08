@@ -1,9 +1,31 @@
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smartcraze&label=Profile%20views&color=0e75b6&style=flat" alt="smartcraze" />
 </p>
 
+<h1 align="center">Hey there 👋, I'm Suraj Vishwakarma</h1>
+
+<p align="center">
+  A Full-Stack Developer based in Bangalore, India 🇮🇳  
+  <br/>
+  Passionate about building clean UIs, scalable backends, and learning by doing 🚀
+</p>
+
+### 📦 Archived Repos — [`whateverui`](https://github.com/whateverui)
+
+I’ve moved many of my **older**, **incomplete**, or **experimental** projects into a dedicated GitHub org: [**whateverui**](https://github.com/whateverui).  
+
+These were built while I was in my early learning phase — lots of fun, fast, project-driven learning.  
+They’re archived now, but might still help you if you're looking for starter ideas or reference.
+
+
+### 🚀 Current Focus
+
+- ⚙️ Backend Development in **Rust**
+- 🌐 Deep-diving into **Web3 fundamentals**
+- 🐳 DevOps: **Docker**, **Kubernetes**, **CI/CD**
+- 📚 Mastering **DSA** and prepping for **placement season**
+
+### Tech-stack & Social handles
 <p align="center">
   <a href="https://instagram.com/surajv354">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
@@ -32,12 +54,8 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma" />
 </p>
 
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartcraze&theme=tokyonight&hide_border=false" />
 
-![](https://github-readme-stats.vercel.app/api?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=smartcraze&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartcraze&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smartcraze&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4" />
-</p>

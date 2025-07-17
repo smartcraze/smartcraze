@@ -9,7 +9,6 @@
   I build sleek UIs, scale backends, and believe in learning by shipping 🚀
 </p>
 
----
 
 ### 🧠 Current Focus
 
@@ -18,7 +17,6 @@
 - 🐳 DevOps with **Docker**, **Kubernetes**, and **CI/CD**
 - 📚 Hardcore mode DSA prep for **placements**
 
----
 
 ### 🚀 Featured Projects
 
@@ -61,7 +59,6 @@
   </tr>
 </table>
 
----
 
 ### 🛠️ Tech Stack I Play With
 
@@ -81,11 +78,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
 </p>
 
----
 
 ### 📦 Archived Repos — [`whateverui`](https://github.com/whateverui)
 
-I’ve moved many of my early learning, quick-build, or unfinished projects into [`whateverui`](https://github.com/whateverui).  
+I’ve moved many of my early learning, quick-build, or unfinished projects into [`@labwhatever`](https://github.com/labwhatever).  
 They're now archived but still might help someone looking to get started with fun ideas.
 
 ---

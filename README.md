@@ -79,7 +79,7 @@
 </p>
 
 
-### 📦 Archived Repos — [`whateverui`](https://github.com/whateverui)
+### 📦 Archived Repos — [`labwhatever`](https://github.com/labwhatever)
 
 I’ve moved many of my early learning, quick-build, or unfinished projects into [`@labwhatever`](https://github.com/labwhatever).  
 They're now archived but still might help someone looking to get started with fun ideas.

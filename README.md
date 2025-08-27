@@ -11,7 +11,7 @@
 - DevOps with **Docker**, **Kubernetes**, and **CI/CD**
 - DSA preparation for **placements**
 <p >
-  <a href="https://smartcraze.online"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://surajv.me"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/surajv354"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/surajv354"><img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://youtube.com/@smartcraze17"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>

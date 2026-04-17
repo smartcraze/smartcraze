@@ -11,7 +11,6 @@
 
 
 - Backend Engineering with **Golang** & **Node.js**
-- Exploring **Web3** & decentralized protocols
 - DevOps with **Docker**, **Kubernetes**, and **CI/CD**
 - DSA preparation for **placements**
 <p >

@@ -19,9 +19,7 @@
   Learning & archive: <a href="https://github.com/surajarchive">@surajarchive</a>
 </p>
 
-
-### What I Do
-
+#### What I Do
 - Backend Engineering with **Golang** and **Node.js**  
 - DevOps with **Docker**, **Kubernetes**, CI/CD  
 - Building **Ai agents** — LLM-based exam evaluation system  

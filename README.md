@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/surajv354"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/surajv354"><img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://youtube.com/@smartcraze17"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  <a href="https://surajv.dev/resumes.pdf"><img src="https://img.shields.io/badge/Resume-FF6B6B?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://surajv.dev/resumes.pdf"><img src="https://img.shields.io/badge/Resume-FCC624?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 <p align="center">

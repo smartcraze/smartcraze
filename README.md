@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smartcraze&theme=tokyonight&hide_border=false&card_width=300" width="300" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartcraze&theme=tokyonight&hide_border=false" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcraze&theme=tokyonight&hide_border=false&layout=compact&card_width=300" width="300" />
+  <img src="https://github-profile-trophy.vercel.app/?username=smartcraze&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
